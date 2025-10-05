@@ -1,3 +1,7 @@
+# Autores
+Jiayi Ye a22406151
+Marta Silva a22403096
+
 # Scheduler Simulator
 
 The objective of this project is to simulate various CPU scheduling algorithms and
